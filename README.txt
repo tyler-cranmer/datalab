@@ -1,4 +1,8 @@
+*****This repository was intended to document my progress as a developer and I do not authorize the use of my code in any form.***** 
+
 This file contains materials for one instance of the attacklab.
+
+The purpose of this assignment is to become more familiar with bit-level representations of integers (and floating point) numbers.
 
 Files:
 
